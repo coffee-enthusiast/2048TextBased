@@ -6,7 +6,6 @@
 #include <cwchar>
 #include <windows.h>
 #include "Cell.h"
-#include "2048Game.h"
 using namespace std;
 
 Cell table[4][4];
